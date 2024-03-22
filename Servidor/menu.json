@@ -1,0 +1,14 @@
+[   
+    {"Nombre" : "Pinto con huevo",
+    "Precio" : 2500,
+    "Tipo" : "Desayuno",
+    "TiempoEstimado" : "20 min",
+    "Descripcion" : "Pinto con huevo, platano maduro y natilla al gusto",
+    "Calorias" : 300},
+    {"Nombre" : "Carne en salsa",
+    "Precio" : 2500,
+    "Tipo" : "Almuerzo",
+    "TiempoEstimado" : "20 min",
+    "Descripcion" : "plato de carne en salsa y arroz, con fresco al gusto",
+    "Calorias" : 600}
+]
